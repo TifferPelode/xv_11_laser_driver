@@ -1,0 +1,4 @@
+# xv_11_laser_driver
+本包用于搭载XV-11雷达的handsfree小车
+
+在原包的基础上添加了launch文件以便于使用和修改
